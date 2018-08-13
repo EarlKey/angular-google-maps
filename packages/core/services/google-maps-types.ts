@@ -261,7 +261,7 @@ export interface GoogleSymbol {
   fillColor?: string;
   fillOpacity?: string;
   labelOrigin?: Point;
-  path?: string;
+  path?: string | number;
   rotation?: number;
   scale?: number;
   strokeColor?: string;
