@@ -1,6 +1,6 @@
 {
-  "name": "@agm/_dev",
-  "private": true,
+  "name": "@agm/core",
+  "private": false,
   "version": "1.0.0-beta.3-polyline-icon",
   "description": "Angular components for Google Maps",
   "repository": {
